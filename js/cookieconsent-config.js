@@ -31,7 +31,7 @@ CookieConsent.run({
             pt: {
                 consentModal: {
                     title: "Olá viajante, é hora dos Cookies!",
-                    description: "Este site utiliza apenas cookies básicos para funcionamento e análise de quem o visita.",
+                    description: "Este site utiliza cookies essenciais para funcionamento e cookies de análise dos visitantes.",
                     acceptAllBtn: "Aceitar todos",
                     acceptNecessaryBtn: "Rejeitar todos",
                     showPreferencesBtn: "Preferências",
