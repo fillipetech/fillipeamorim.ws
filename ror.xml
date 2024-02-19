@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://fillipeamorim.ws/</title>
+  <link>https://fillipeamorim.ws/</link>
+
+<item>
+     <link>https://fillipeamorim.ws/</link>
+     <title>Fillipe Amorim - Full-stack Web Developer</title>
+     <description>Web Developer sênior full-stack com mais de 15 anos de experiência</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
